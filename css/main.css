@@ -362,11 +362,11 @@ input.input100 {
 }
 
 .bg-gx {
-  background: #799F0C;
-  background: -webkit-linear-gradient(-45deg, #FFE000, #799F0C, #00416A);
-  background: -o-linear-gradient(-45deg, #FFE000, #799F0C, #00416A);
-  background: -moz-linear-gradient(-45deg, #FFE000, #799F0C, #00416A);
-  background: linear-gradient(-45deg, #FFE000, #799F0C, #00416A);
+  background: #72be7e;
+  background: -webkit-linear-gradient(-45deg, #d9cc22, #1cb3cb);
+  background: -o-linear-gradient(-45deg, #d9cc22, #1cb3cb);
+  background: -moz-linear-gradient(-45deg, #d9cc22, #1cb3cb);
+  background: linear-gradient(-45deg, #d9cc22, #1cb3cb);
 }
 
 
